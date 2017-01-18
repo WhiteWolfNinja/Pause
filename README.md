@@ -1,4 +1,3 @@
-# hello_world
-This is my first repository
+# Pause
 
-So I'm new to this and trying it out to get a better understanding before I jump in feet first.
+This is just a small bit of code used to pause the terminal before exiting the program.
