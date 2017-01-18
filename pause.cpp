@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-  string sWait="Press any key to exit.";
+  string sWait="Press enter to exit.";
   cout<<sWait;
-  cin>>sWait;
+  cin.ignore();
   return 0;
 }
